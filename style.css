@@ -1,0 +1,6 @@
+.caption { display: none }
+.content { margin: 1em auto; padding: 1em; min-width: 69%; max-width: 80%; }
+h1, h2, h3, h4 { color: #274B55 }
+h1, h3 { border-bottom: 1px solid #ccc }
+h2, h4 { border-bottom: 1px dashed #ccc }
+pre { margin: 1em; padding: 1em; border-radius: 1em; background-color: #eeeeca }
